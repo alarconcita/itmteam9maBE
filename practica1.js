@@ -1,4 +1,3 @@
-/*
 console.log("EJERCICIO_1");
 let name = "Ross";
 let surname = "Geller";
@@ -64,20 +63,15 @@ console.log(typeof("hamburguer"+"s")); //bien
 
 
 console.log("EJERCICIO_5");
-
 console.log('al que madruga Dios lo ayuda'.toUpperCase());
 
 console.log("EJERCICIO_6");
-
 console.log('MÁS VALE PÁJARO EN MANO QUE CIENTOS VOLANDO'.toLowerCase());
 
-
 console.log("EJERCICIO_7");
-
 const saludo = 'HoLa'
 const saludo2 = 'mUnDo'
 console.log("'"+saludo.toLowerCase() + ' ' + saludo2.toUpperCase()+"'");
-
 
 console.log("EJERCICIO_8");
 let precio = 100
@@ -85,7 +79,6 @@ let descuento = 20
 let preciod = precio - (descuento*precio/100);
 console.log("Su producto tiene un precio de " + (preciod) + ", " + "el descuento fue de " + descuento + "%");
 
-*/
 console.log("EJERCICIO_9");
 let num1 = 56;
 let num2 = 89;
@@ -94,7 +87,6 @@ let num4 = 356;
 let num5 = 41;
 let prom = (num1+num2+num3+num4+num5)/5;
 console.log("el promedio es " + prom);
-
 
 console.log("EJERCICIO_10");
 let diam = 6
