@@ -5,13 +5,9 @@ let surname = "Geller";
 let age = 33;
 
 console.log("EJERCICIO_2");
-parseInt(age);
-console.log("Nombre", name);
-console.log("tipo: ", typeof 'name');
-console.log("Apellido: ", surname);
-console.log("tipo: ", typeof 'surname');
-console.log("Edad: ", age);
-console.log("tipo: ", typeof 'age');
+console.log("Nombre", name, ",", "tipo: ", typeof name);
+console.log("Apellido: ", surname, ",", "tipo: ", typeof surname);
+console.log("Edad: ", age, ",", "tipo: ", typeof age);
 
 console.log("EJERCICIO_3");
 let city;
