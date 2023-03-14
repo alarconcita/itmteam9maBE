@@ -95,14 +95,14 @@ class Tienda {
     this.direccion = direccion;
     this.propietario = propietario;
     this.rubro = rubro;
-  };
-let tienda1 = new Tienda("Pura Vida", "Sarmiento 485", "Juan Gallino", "Tatuajes");
-let tienda2 = new Tienda("Mestiere", "Lavalle 724", "Mariana Alarcón", "Cosmética Natural");
-let tienda3 = new Tienda("Jo Tosetto", "Suipacha 3564", "Josefina Tosetto", "Fotografía");
+  }};
+const tienda = new Tienda("Pura Vida", "Sarmiento 485", "Juan Gallino", "Tatuajes");
+const tienda2 = new Tienda("Mestiere", "Lavalle 724", "Mariana Alarcón", "Cosmética Natural");
+const tienda3 = new Tienda("Jo Tosetto", "Suipacha 3564", "Josefina Tosetto", "Fotografía");
 
 console.log("EJERCICIO_9");
-let tienda4 = new Tienda("Laboratorio", "Córdoba S 39", "Mabel Rinaldi", "Análisis clínicos");
-let tienda5 = new Tienda("Psi Alex Alarcón", "Moreno 1797", "Alex Alarcón", "Psicología");
+const tienda4 = new Tienda("Laboratorio", "Córdoba S 39", "Mabel Rinaldi", "Análisis clínicos");
+const tienda5 = new Tienda("Psi Alex Alarcón", "Moreno 1797", "Alex Alarcón", "Psicología");
 
 console.log("EJERCICIO_10");
 const lion = {
